@@ -3,6 +3,7 @@ package br.com.training.vo;
 public class User {
 	private Integer id;
 	private String userName;
+	private String passWord;
 	
 	public Integer getId() {
 		return id;
@@ -15,6 +16,12 @@ public class User {
 	}
 	public void setUserName(String userName) {
 		this.userName = userName;
+	}
+	public String getPassWord() {
+		return passWord;
+	}
+	public void setPassWord(String passWord) {
+		this.passWord = passWord;
 	}
 	
 }
