@@ -1,5 +1,9 @@
 package br.com.training.vo;
 
+/**
+ *@autor Valdomiro Bilharvas Neto 
+ **/
+
 public class User {
 	private Integer id;
 	private String userName;
