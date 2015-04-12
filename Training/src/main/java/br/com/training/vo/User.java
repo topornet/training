@@ -2,6 +2,7 @@ package br.com.training.vo;
 
 /**
  *@autor Valdomiro Bilharvas Neto 
+ *@data 2015-04-11
  **/
 
 public class User {
